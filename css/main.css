@@ -1096,10 +1096,10 @@ header .row {
 header .top-bar {
 	display: block;
 	background: rgba(255,255,255,. 5);
-	min-width: 10px;
+	min-width: 2200px;
 	min-height: 66px;
 	position: absolute;
-	left: 10px;
+	left: 90px;
 	top: 0;
 }
 header .logo {
