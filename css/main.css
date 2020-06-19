@@ -1096,10 +1096,10 @@ header .row {
 header .top-bar {
 	display: block;
 	background: #000000;
-	min-width: 220px;
+	min-width: 100px;
 	min-height: 66px;
-	position: absolute;
-	left: 0;
+	position: relative;
+	left: 90px;
 	top: 0;
 }
 header .logo {
@@ -1109,13 +1109,12 @@ header .logo {
 	margin-top: 25px;
 	position: relative;
 }
-
 /**
  * menu toggle - (_layout.css)
  * -------------------------------------------------------------------
  */
 .menu-toggle {
-	float: left;
+	float: right;
 	width: 40px;
 	height: 40px;
 	margin-left: 20px;
