@@ -1087,7 +1087,7 @@ header {
 	position: fixed;
 	width: 100%;
 	min-height: 66px;
-	z-index: 60;
+	z-index: 600;
 }
 header .row {
 	position: relative;
@@ -1099,7 +1099,7 @@ header .top-bar {
 	min-width: 220px;
 	min-height: 66px;
 	position: absolute;
-	left: 90px;
+	left: 0;
 	top: 0;
 }
 header .logo {
@@ -1108,19 +1108,6 @@ header .logo {
 	margin-right: 50px;
 	margin-top: 25px;
 	position: relative;
-}
-header .logo a {
-	display: block;
-	margin: 0;
-	padding: 0;
-	border: none;
-	font: 0/0 a;
-	text-shadow: none;
-	color: transparent;
-	width: 53px;
-	height: 35px;
-	background: url("../images/ABLogo.png") no-repeat center;
-	background-size: 52px 45px;
 }
 
 /**
