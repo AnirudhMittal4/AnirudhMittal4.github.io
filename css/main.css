@@ -1098,7 +1098,7 @@ header .top-bar {
 	background: rgba(255,255,255,. 5);
 	min-width: 220px;
 	min-height: 66px;
-	position: absolute;
+	position: relative;
 	left: 90px;
 	top: 0;
 }
