@@ -1114,10 +1114,10 @@ header .logo {
  * -------------------------------------------------------------------
  */
 .menu-toggle {
-	float: right;
+	float: left;
 	width: 40px;
 	height: 40px;
-	margin-left: 20px;
+	margin-left: 5px;
 	margin-top: 13px;
 	display: block;
 	position: relative;
